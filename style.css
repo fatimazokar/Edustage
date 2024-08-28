@@ -61,4 +61,41 @@
     color: white;
   }
   /* ///////////////////////////////////END COURSES SECTION  /////////////////////////////////  */
-    
+    /* //////////////////////////////REGISTER /////////////////////////////// */
+.register-center {
+    background-color: #002347;
+    min-height: 100vh;
+  }
+  .Register-taitle,
+  .subtaitle {
+    font-family: "Rubik", sans-serif;
+  }
+  .container {
+    padding-top: 100px;
+  }
+  .bg-white {
+    background-color: #fff;
+  }
+  .title1 {
+    color: #002347;
+    font-family: "Rubik", sans-serif;
+  }
+  
+  .form-lable {
+    border: none;
+    border-bottom: 0.5px solid rgb(247, 245, 245);
+    padding: 12px;
+  }
+  .box {
+    width: 150px;
+    height: 120px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    background-color: rgb(51, 79, 108);
+    font-family: "Rubik", sans-serif;
+  }
+  
+  /* //////////////////////////////END REGISTER END/////////////////////////////// */
