@@ -99,3 +99,24 @@
   }
   
   /* //////////////////////////////END REGISTER END/////////////////////////////// */
+  /* ////////////////////////////////OUR EXPERT TRAINERS //////////////////// */
+.trainers-center {
+    min-height: 140vh;
+  }
+  .fa-brands {
+    color: rgb(201, 197, 197);
+    font-weight: 100;
+    font-size: 14px;
+  }
+  .fa-brands:hover {
+    color: gold;
+  }
+  .card1 {
+    border: none;
+    box-shadow: 0px 0px 30px rgba(153, 153, 153, 0.13);
+  }
+  .card1:hover {
+    box-shadow: 0px 10px 30px rgba(0, 35, 71, 0.15);
+  }
+  
+  /* ///////////////////////////////// END OUR EXPERT TRAINERS ///////////////////// */
