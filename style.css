@@ -120,3 +120,68 @@
   }
   
   /* ///////////////////////////////// END OUR EXPERT TRAINERS ///////////////////// */
+  /* /////////////////////////////////UPCOMING EVENTS //////////////////////// */
+.events-center {
+    background-color: #002347;
+    min-height: 140vh;
+  }
+  .events-taitle {
+    font-family: "Rubik", sans-serif;
+  }
+  
+  .event-item {
+    width: 290px;
+    height: 278px;
+  
+    top: 0px;
+    right: 0px;
+    position: absolute;
+  
+    background: rgba(0, 35, 71, 0.5);
+  }
+  .event-date {
+    width: 70px;
+    height: 55px;
+    border-right: 2px solid #fff;
+    padding-left: 12px;
+  }
+  .month {
+    margin-top: 35px;
+    font-family: "Rubik", sans-serif;
+    margin-left: -25px;
+  }
+  .event-location {
+    margin-left: 70px;
+    margin-top: -50px;
+  }
+  .location {
+    margin-top: -10px;
+  }
+  .event-btn {
+    font-size: 13px;
+    color: black;
+  }
+  .event-btn:hover {
+    background-color: #002347;
+    border-style: none;
+  }
+  .event-btn:hover {
+    color: orange;
+  }
+  
+  /*  UPCOMING EVENTS ((((zoom hover))))  */
+  
+  .event-col {
+    overflow: hidden;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .event-card {
+    object-fit: cover;
+    transition: 0.25s ease;
+  }
+  .event-card:hover {
+    transform: scale(1.1);
+  }
+  
+  /* ///////////////////////////////////////////////// END UPCOMING EVENTS //////////////////////// */
